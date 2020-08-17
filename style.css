@@ -91,7 +91,7 @@ button:active {
 /* Loader */
 .loader {
     border: 16px solid #f3f3f3; /* Light grey */
-    border-top: 16px solid #333; /* Blue */
+    border-top: 16px solid #334f74; /* Blue */
     border-radius: 50%;
     width: 120px;
     height: 120px;
